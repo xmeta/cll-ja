@@ -1,0 +1,8 @@
+[[the-complete-lojban-language-日本語抄訳プロジェクト]]
+The Complete Lojban Language 日本語抄訳プロジェクト
+---------------------------------------------------
+
+http://ponjbogri.github.com/cll-ja/[web]
+
+詳しくはhttp://www.lojban.org/tiki/The+Complete+Lojban+Language+日本語抄訳[lojban.org
+上のページ]をご覧ください。
